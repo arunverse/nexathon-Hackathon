@@ -1,0 +1,95 @@
+{
+  "CANONICAL_DOMAIN": "https://www.ebexta.com",
+  "PUBLIC_ROUTES": {
+    "/": {
+      "title": "EBEXTA — B2B Business Intelligence & Business Network",
+      "desc": "EBEXTA is a B2B Business Intelligence and Business Network platform that helps companies discover opportunities, understand business signals and intent, verify companies and decision-makers, engage with prospects, and directly connect with businesses, sector leaders, and professionals who are part of the EBEXTA network.",
+      "canonicalPath": "/"
+    },
+    "/home": {
+      "title": "EBEXTA — B2B Business Intelligence & Business Network",
+      "desc": "EBEXTA is a B2B Business Intelligence and Business Network platform that helps companies discover opportunities, understand business signals and intent, verify companies and decision-makers, engage with prospects, and directly connect with businesses, sector leaders, and professionals who are part of the EBEXTA network.",
+      "canonicalPath": "/"
+    },
+    "/about": {
+      "title": "About EBEXTA — B2B Business Intelligence & Business Network",
+      "desc": "EBEXTA is a B2B Business Intelligence and Business Network platform that helps companies discover opportunities, understand business signals and intent, verify companies and decision-makers, engage with prospects, and directly connect with businesses, sector leaders, and professionals who are part of the EBEXTA network.",
+      "canonicalPath": "/about"
+    },
+    "/careers": {
+      "title": "Careers at EBEXTA | Verified B2B Intelligence",
+      "desc": "Join the EBEXTA team building the bilateral verified intelligence network for Indian and global enterprises.",
+      "canonicalPath": "/careers"
+    },
+    "/terms": {
+      "title": "Terms of Service — EBEXTA",
+      "desc": "Terms and conditions governing the use of EBEXTA, the B2B Business Intelligence and Business Network platform.",
+      "canonicalPath": "/terms"
+    },
+    "/privacy": {
+      "title": "Privacy Policy — EBEXTA",
+      "desc": "Privacy policy detailing how EBEXTA collects, handles, and protects personal and commercial business intelligence data.",
+      "canonicalPath": "/privacy"
+    },
+    "/refund": {
+      "title": "Refund & Cancellation Policy — EBEXTA",
+      "desc": "Refund and cancellation policy for subscription plans and service credits on the EBEXTA platform.",
+      "canonicalPath": "/refund"
+    },
+    "/dpdp": {
+      "title": "DPDP Compliance & Data Handling — EBEXTA",
+      "desc": "Overview of EBEXTA’s compliance with India’s Digital Personal Data Protection Act (DPDP) 2023 and privacy standards.",
+      "canonicalPath": "/dpdp"
+    },
+    "/b2b-business-intelligence": {
+      "title": "B2B Business Intelligence for Business Opportunities | EBEXTA",
+      "desc": "Discover how B2B business intelligence helps companies understand business signals, intent, companies and opportunities, then move from discovery to engagement with EBEXTA.",
+      "canonicalPath": "/b2b-business-intelligence"
+    },
+    "/business-signals": {
+      "title": "B2B Buying Signals & Business Signals | EBEXTA",
+      "desc": "Discover B2B buying signals and business signals across publicly available company information. EBEXTA helps businesses identify relevant activity, understand context and discover potential opportunities.",
+      "canonicalPath": "/business-signals"
+    },
+    "/b2b-intent-intelligence": {
+      "title": "B2B Intent Data & Buyer Intent Intelligence | EBEXTA",
+      "desc": "Understand B2B intent data, buyer intent signals and business intent. EBEXTA connects business signals, company context and verification to help identify potential B2B opportunities.",
+      "canonicalPath": "/b2b-intent-intelligence"
+    },
+    "/company-intelligence": {
+      "title": "Company Intelligence & B2B Company Research | EBEXTA",
+      "desc": "Understand companies with B2B company intelligence, company research, business signals and verified decision-maker context. EBEXTA helps businesses discover relevant opportunities and relationships.",
+      "canonicalPath": "/company-intelligence"
+    },
+    "/b2b-business-network": {
+      "title": "B2B Business Network & Business Connections | EBEXTA",
+      "desc": "Discover a B2B business network for finding companies, professionals and relevant business relationships. EBEXTA connects intelligence, signals, verification and engagement.",
+      "canonicalPath": "/b2b-business-network"
+    },
+    "/careers/ai-ml-engineer": {
+      "title": "AI/ML Engineer Careers | EBEXTA",
+      "desc": "Build intelligent capabilities, evaluation pipelines, and machine learning models for EBEXTA’s verified bilateral intelligence platform. (Available for Full-time and Internships)",
+      "canonicalPath": "/careers/ai-ml-engineer"
+    },
+    "/careers/sales-representative": {
+      "title": "Sales Representative Careers | EBEXTA",
+      "desc": "Drive high-impact B2B technology sales conversations, qualify inbound and outbound demand, and conduct live product demonstrations for founders and revenue leaders. (Available for Full-time and Internships)",
+      "canonicalPath": "/careers/sales-representative"
+    },
+    "/careers/seo-specialist": {
+      "title": "SEO Specialist Careers | EBEXTA",
+      "desc": "Spearhead organic growth and high-intent search acquisition for EBEXTA’s B2B platform through technical SEO, content frameworks, and intent research. (Available for Full-time and Internships)",
+      "canonicalPath": "/careers/seo-specialist"
+    },
+    "/careers/social-media-marketing": {
+      "title": "Social Media Marketing Specialist Careers | EBEXTA",
+      "desc": "Shape EBEXTA’s public brand, executive thought leadership, and product storytelling across LinkedIn, visual platforms, and tech communities. (Available for Full-time and Internships)",
+      "canonicalPath": "/careers/social-media-marketing"
+    },
+    "/careers/business-development-associate": {
+      "title": "Business Development Associate (BDA) Careers | EBEXTA",
+      "desc": "Forge strategic partnerships, research target industry verticals, and develop new go-to-market channels for EBEXTA across India and global markets. (Available for Full-time and Internships)",
+      "canonicalPath": "/careers/business-development-associate"
+    }
+  }
+}

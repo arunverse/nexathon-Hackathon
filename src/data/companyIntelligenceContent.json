@@ -1,0 +1,429 @@
+{
+  "h1": "Company Intelligence for B2B Company Research and Opportunity Discovery",
+  "subtitle": "Discover how B2B company intelligence, comprehensive company research, observable business signals, and verified decision-maker context help modern enterprises understand target organizations and identify genuine commercial opportunities.",
+  "badge": "EBEXTA Framework · Discover → Understand → Verify → Engage",
+  "positioning": "EBEXTA is a B2B Business Intelligence and Business Network platform that helps companies discover opportunities, understand business signals and intent, verify companies and decision-makers, engage with prospects, and directly connect with businesses, sector leaders, and professionals who are part of the EBEXTA network.",
+  "section1": {
+    "id": "what-is-company-intelligence",
+    "badge": "Strategic Foundation",
+    "h2": "What Is Company Intelligence?",
+    "paragraphs": [
+      "Company intelligence is the systematic gathering, synthesis, and contextual interpretation of observable business information regarding an enterprise's operations, strategic priorities, leadership architecture, market positioning, and ongoing corporate activities. Rather than viewing an organization merely as a static entry in a commercial registry, company intelligence provides a multidimensional understanding of how an organization functions, where it is directing resources, and how its operational needs are evolving.",
+      "At its core, company intelligence transforms fragmented public disclosures, corporate filings, operational announcements, and business footprints into coherent commercial insight. This enables B2B sales teams, commercial executives, corporate strategists, and procurement leaders to evaluate organizations with precision, discern genuine commercial relevance, and approach prospective partners with authentic business context rather than generic, disconnected outreach."
+    ],
+    "pillars": [
+      {
+        "num": "01",
+        "title": "Comprehensive Synthesis",
+        "desc": "Consolidating public corporate profiles, operating models, product offerings, executive structures, and commercial footprints into unified organizational profiles."
+      },
+      {
+        "num": "02",
+        "title": "Dynamic Activity Tracking",
+        "desc": "Observing real-time corporate movements across public domains—including headcount shifts, executive appointments, geographic expansions, and technology investments."
+      },
+      {
+        "num": "03",
+        "title": "Contextual Interpretation",
+        "desc": "Analyzing corporate actions within their specific industry dynamics, scale, and strategic objectives to determine commercial viability rather than assuming automatic purchase readiness."
+      }
+    ]
+  },
+  "section2": {
+    "id": "what-is-b2b-company-intelligence",
+    "badge": "Enterprise Perspective",
+    "h2": "What Is B2B Company Intelligence?",
+    "paragraphs": [
+      "B2B company intelligence specifically focuses on the operational, organizational, and technological characteristics that govern enterprise purchasing decisions and commercial partnerships. Unlike consumer transactions that depend on individual preference, B2B purchasing is characterized by consensus-driven evaluations, defined budgetary cycles, complex compliance hurdles, and multi-tiered decision-making units.",
+      "Effective B2B company intelligence equips commercial teams to answer critical operational questions before investing capital and sales effort into prospective relationships:",
+      "• What operational problem is the target organization currently solving?\n• Does the enterprise possess the structural scale, technical infrastructure, and budgetary capacity to partner?\n• Which functional leaders and department heads hold mandate for specific operational domains?\n• What recent public business events indicate organizational readiness for modernization or collaboration?"
+    ],
+    "dimensions": [
+      {
+        "label": "Operational Footprint",
+        "desc": "Core business activities, service portfolios, target customer segments, global or regional office presence, and key delivery capabilities."
+      },
+      {
+        "label": "Leadership & Governance",
+        "desc": "Organizational hierarchy, functional division heads, board composition, and the distribution of departmental responsibilities."
+      },
+      {
+        "label": "Market & Industry Position",
+        "desc": "Competitive positioning within specific market verticals, regulatory environments, supplier ecosystems, and peer benchmarks."
+      },
+      {
+        "label": "Technological Infrastructure",
+        "desc": "Observed technology adoptions, software frameworks, security standards, and modernization initiatives deduced from public job openings and tech disclosures."
+      }
+    ]
+  },
+  "section3": {
+    "id": "what-information-matters-when-researching-a-company",
+    "badge": "Research Dimensions",
+    "h2": "What Information Matters When Researching a Company?",
+    "paragraphs": [
+      "In modern commercial research, having an abundance of data is no longer an advantage if the information is shallow, outdated, or disconnected from commercial reality. To build an accurate, actionable understanding of an organization, research must look beyond superficial website taglines and examine multiple intersecting dimensions of corporate reality:",
+      "A disciplined company research methodology investigates the following five foundational layers:"
+    ],
+    "layers": [
+      {
+        "title": "1. Corporate Mission & Business Model",
+        "summary": "Understanding exactly what the business produces, how it generates revenue, and what customer challenges it addresses in its market.",
+        "details": "Examining whether the company operates as an enterprise software provider, a managed services firm, a high-volume manufacturer, or a specialized logistics operator shapes every aspect of subsequent collaboration."
+      },
+      {
+        "title": "2. Operational Scale & Growth Velocity",
+        "summary": "Assessing employee headcount, geographical distribution of talent, funding stages, and public financial trajectory.",
+        "details": "A growth-stage startup with 60 employees scaling into international markets has vastly different procurement requirements, decision velocity, and compliance frameworks than an enterprise with 10,000 employees."
+      },
+      {
+        "title": "3. Recent Corporate Actions & Public Signals",
+        "summary": "Tracking verifiable events such as product launches, corporate restructuring, regulatory compliance mandates, and hiring patterns.",
+        "details": "Public hiring surges in specialized disciplines (e.g., enterprise data architecture or regulatory compliance) provide valuable context on internal initiatives and priority projects currently underway."
+      },
+      {
+        "title": "4. Decision-Maker Responsibilities & Functional Alignment",
+        "summary": "Mapping key executive roles, departmental leadership, and organizational reporting lines.",
+        "details": "Identifying which executives manage specific functional domains (such as VP of Engineering, Chief Information Security Officer, or VP of Supply Chain) enables targeted, relevant communication rather than generic outreach."
+      },
+      {
+        "title": "5. Supporting Public Evidence & Verification Sources",
+        "summary": "Grounding every analytical assertion in verifiable public sources, corporate documentation, and professional network disclosures.",
+        "details": "Confirming corporate domain authenticity, active digital presence, and validated professional identities protects revenue teams from chasing ghost accounts, inactive shell corporations, or fabricated leads."
+      }
+    ]
+  },
+  "section4": {
+    "id": "company-intelligence-vs-company-data",
+    "badge": "Critical Comparison",
+    "h2": "Company Intelligence vs Company Data",
+    "intro": "A fundamental mistake in commercial strategy is conflating raw company data with true company intelligence. While company data provides static facts, company intelligence synthesizes context, operational momentum, and commercial meaning:",
+    "comparisonTable": [
+      {
+        "dimension": "Definition & Scope",
+        "data": "Static facts, basic directories, postal addresses, phone numbers, and raw employee numbers.",
+        "intelligence": "Synthesized commercial understanding connecting company operations, observed business signals, leadership context, and strategic initiatives."
+      },
+      {
+        "dimension": "Time Dimension",
+        "data": "Snapshot in time; rapidly degrades as employees transition, companies pivot, and priorities shift.",
+        "intelligence": "Dynamic and contextual; evaluates historical trajectory, current momentum, and upcoming operational milestones."
+      },
+      {
+        "dimension": "Relevance & Actionability",
+        "data": "Generic lists requiring intensive manual sorting, extensive external research, and subjective guesswork.",
+        "intelligence": "Pre-qualified context highlighting why an organization may have emerging requirements and which functional heads are relevant."
+      },
+      {
+        "dimension": "Decision-Maker Insight",
+        "data": "Unverified contact lists or generic email inboxes (info@, sales@) that rarely reach relevant leaders.",
+        "intelligence": "Functional role context identifying decision-makers responsible for active departmental initiatives."
+      },
+      {
+        "dimension": "Commercial Outcome",
+        "data": "Cold, disconnected mass outreach yielding low response rates, spam flags, and wasted sales hours.",
+        "intelligence": "Targeted, value-oriented conversations aligned with active business realities and authentic organizational needs."
+      }
+    ],
+    "takeaway": "Company data tells you that a business exists; company intelligence explains how that business operates, what challenges it may be solving, and why an outreach initiative makes commercial sense today."
+  },
+  "section5": {
+    "id": "how-company-signals-improve-company-research",
+    "badge": "Dynamic Signals",
+    "h2": "How Company Signals Improve Company Research",
+    "paragraphs": [
+      "Traditional company research relies on static databases that are updated intermittently. By the time a corporate change is manually logged into an offline database, the commercial window of opportunity has often closed. Integrating observable business signals into company research transforms passive profile reviews into dynamic opportunity discovery.",
+      "Business signals are observable events, public disclosures, and corporate footprints that reflect ongoing changes inside an organization. By observing these signals across publicly available web sources, commercial teams gain visibility into operational inflection points:"
+    ],
+    "signalCategories": [
+      {
+        "title": "Leadership & Executive Transitions",
+        "desc": "When new executives join an organization, they frequently review existing vendor relationships, audit software architectures, and introduce modern operational standards within their first 90 to 180 days."
+      },
+      {
+        "title": "Strategic Hiring & Talent Expansion",
+        "desc": "Clusters of specialized job requisitions across publicly available career portals reveal new technological initiatives, infrastructure upgrades, or expansions into new commercial territories."
+      },
+      {
+        "title": "Corporate Milestones & Expansion",
+        "desc": "Funding announcements, acquisitions, regional market launches, and facility openings signal budgetary allocation, scaling requirements, and heightened operational demands."
+      },
+      {
+        "title": "Regulatory & Industry Modernization",
+        "desc": "Industry-wide regulatory updates, compliance deadlines, and security mandates compel organizations to evaluate new advisory services, specialized tools, and operational safeguards."
+      }
+    ],
+    "contextRule": "Important rule: An observable business signal indicates that an account is worth investigating; it does not guarantee immediate purchase intent. The signal must be combined with company context, industry realities, and direct verification."
+  },
+  "section6": {
+    "id": "why-decision-maker-context-matters",
+    "badge": "Leadership Architecture",
+    "h2": "Why Decision-Maker Context Matters",
+    "paragraphs": [
+      "Researching a company without understanding its leadership architecture is one of the most common causes of failed B2B commercial campaigns. Reaching out to an organization with a compelling value proposition will still fail if directed to an irrelevant department head, an individual contributor without budgetary authority, or a generic team inbox.",
+      "Decision-maker intelligence provides clarity on functional responsibilities, organizational hierarchy, and professional context within prospective accounts:",
+      "• Functional Relevance: Connecting with the executive whose departmental mandate directly aligns with the operational challenge being solved (e.g., Head of Information Security for compliance, VP of Supply Chain for freight logistics).\n• Organizational Context: Recognizing whether an organization centralizes procurement at headquarters or delegates decision-making to regional business unit leaders.\n• Team Architecture: Understanding the broader leadership team so conversations can address both executive business objectives and operational implementation requirements."
+    ],
+    "principles": [
+      {
+        "title": "Role Context Over Pure Job Titles",
+        "desc": "Job titles vary widely across companies. A 'Director of Operations' at a 100-person firm often carries broader purchasing authority than a 'Vice President' at a global bank. Evaluating actual functional responsibility is essential."
+      },
+      {
+        "title": "Professional Relevance Without Assumptions",
+        "desc": "Identifying a relevant department head does not make them an immediate buyer. Decision-maker intelligence helps establish authentic, professional peer-to-peer dialogue grounded in relevant business context."
+      },
+      {
+        "title": "Respectful & Responsible Engagement",
+        "desc": "Commercial teams should prioritize verified corporate communication channels and avoid invasive, unverified personal surveillance. Enterprise trust begins with responsible prospecting."
+      }
+    ]
+  },
+  "section7": {
+    "id": "how-ebexta-approaches-company-intelligence",
+    "badge": "The EBEXTA Engine",
+    "h2": "How EBEXTA Approaches Company Intelligence",
+    "paragraphs": [
+      "EBEXTA approaches company intelligence through an integrated architecture that unites publicly available business information, observable corporate signals, verified leadership context, and a bilateral business network. Rather than providing disconnected spreadsheets or opaque algorithmic scores, EBEXTA structures intelligence around four disciplined phases:"
+    ],
+    "phases": [
+      {
+        "phase": "01",
+        "title": "Discover",
+        "desc": "Identify relevant enterprises, suppliers, and potential commercial opportunities based on comprehensive industry parameters, corporate capabilities, and strategic mission criteria."
+      },
+      {
+        "phase": "02",
+        "title": "Understand",
+        "desc": "Evaluate the organization's business model, operational trajectory, public corporate signals, and market context to establish why a commercial conversation is timely and relevant."
+      },
+      {
+        "phase": "03",
+        "title": "Verify",
+        "desc": "Validate corporate domains, confirmed operational footprints, and authentic decision-makers through verified data practices and supporting public evidence."
+      },
+      {
+        "phase": "04",
+        "title": "Engage",
+        "desc": "Engage prospective accounts with tailored, evidence-backed business proposals, or connect directly with verified enterprises, sector leaders, and professionals within the EBEXTA business network."
+      }
+    ],
+    "dataPhilosophy": {
+      "title": "Public Information & Responsible Data Practices",
+      "text": "EBEXTA gathers publicly available business information across the web, including relevant public information from company websites, corporate disclosures, professional networks, and open business registers. EBEXTA does NOT claim private browsing tracking, third-party cookie tracking, proprietary illicit intent feeds, or individual-level surveillance. Every business insight is grounded in observable, transparent public signals."
+    }
+  },
+  "section8": {
+    "id": "from-company-research-to-opportunity-discovery",
+    "badge": "Workflow Evolution",
+    "h2": "From Company Research to Opportunity Discovery",
+    "paragraphs": [
+      "The ultimate objective of B2B company intelligence is not to accumulate extensive folders of research, but to facilitate timely, mutually beneficial commercial partnerships. Moving from passive company research to active opportunity discovery requires connecting multiple analytical components into an integrated decision framework:",
+      "When company intelligence, business signals, and decision-maker context converge, commercial teams can transition from unguided cold outreach to high-precision engagement:"
+    ],
+    "steps": [
+      {
+        "step": "Step 1",
+        "title": "Baseline Company Profile",
+        "desc": "Define target account parameters including industry vertical, service offerings, operating scale, and strategic focus."
+      },
+      {
+        "step": "Step 2",
+        "title": "Observable Signal Detection",
+        "desc": "Identify verifiable public activity indicating organizational changes, expansions, leadership hires, or modernization initiatives."
+      },
+      {
+        "step": "Step 3",
+        "title": "Contextual Alignment",
+        "desc": "Cross-reference observed business signals against the company's operating scale and industry challenges to establish potential commercial relevance."
+      },
+      {
+        "step": "Step 4",
+        "title": "Decision-Maker Mapping",
+        "desc": "Identify the key departmental leaders and functional decision-makers whose professional mandates align with the identified requirement."
+      },
+      {
+        "step": "Step 5",
+        "title": "Evidence Verification",
+        "desc": "Validate contact authenticity, corporate domain legitimacy, and supporting public source documentation prior to commercial engagement."
+      },
+      {
+        "step": "Step 6",
+        "title": "Context-Driven Engagement",
+        "desc": "Initiate dialogue addressing the prospect's observable business reality, presenting tailored solutions that reflect genuine enterprise context."
+      }
+    ]
+  },
+  "section9": {
+    "id": "who-uses-company-intelligence",
+    "badge": "Enterprise Use Cases",
+    "h2": "Who Uses Company Intelligence?",
+    "intro": "B2B company intelligence empowers diverse enterprise teams to replace speculation with evidence-backed commercial execution:",
+    "audiences": [
+      {
+        "role": "B2B Sales & Account Executives",
+        "desc": "Account executives use company intelligence to conduct thorough pre-call research, tailor discovery conversations to active operational realities, and navigate multi-stakeholder enterprise buying committees."
+      },
+      {
+        "role": "Revenue Leaders & GTM Strategists",
+        "desc": "Sales and marketing executives analyze market verticals, identify emerging account segments showing structural expansion, and allocate territory quotas to high-opportunity market sectors."
+      },
+      {
+        "role": "Procurement & Strategic Sourcing Teams",
+        "desc": "Enterprise procurement specialists research vendor viability, examine operational footprints, verify corporate legitimacy, and assess market reputation before committing to long-term supplier agreements."
+      },
+      {
+        "role": "Partnership & Corporate Development Teams",
+        "desc": "Alliance leaders evaluate complementary technology ecosystems, identify synergistic service providers, and establish strategic co-selling relationships based on shared target customer profiles."
+      }
+    ]
+  },
+  "section10": {
+    "id": "frequently-asked-questions",
+    "badge": "Expert Answers",
+    "h2": "Frequently Asked Questions",
+    "intro": "Essential questions and detailed answers regarding B2B company intelligence, company research, business signals, and how EBEXTA approaches enterprise opportunity discovery.",
+    "faqs": [
+      {
+        "q": "What is company intelligence?",
+        "a": "Company intelligence is the systematic gathering, analysis, and synthesis of observable business information, public corporate signals, leadership structures, and operational footprints to gain a comprehensive understanding of an enterprise. Unlike raw data points, company intelligence provides commercial context to help businesses identify potential partnerships, evaluate risks, and discover relevant B2B opportunities."
+      },
+      {
+        "q": "What is B2B company intelligence?",
+        "a": "B2B company intelligence is business intelligence tailored specifically for business-to-business commerce. It analyzes organizational hierarchy, operational scale, technology infrastructure, corporate priorities, and decision-maker responsibilities to help B2B commercial teams identify which organizations may have active operational requirements and how best to engage them."
+      },
+      {
+        "q": "What is the difference between company intelligence and company data?",
+        "a": "Company data consists of static, isolated facts such as company names, addresses, generic phone numbers, and estimated headcount. Company intelligence interprets that data alongside observable business signals, industry context, recent corporate activity, and verified decision-maker roles to explain how an organization functions and why a commercial opportunity may be emerging."
+      },
+      {
+        "q": "Why is company intelligence important for B2B sales?",
+        "a": "Company intelligence is crucial for B2B sales because modern enterprise buyers expect commercial partners to understand their operational context. By researching an account's strategic trajectory, leadership changes, and business signals, sales professionals can engage relevant decision-makers with tailored, high-value insights instead of sending unguided cold pitches."
+      },
+      {
+        "q": "What information is useful when researching a company?",
+        "a": "Useful company research combines multiple information layers: the company's core business model and products, operating scale and employee growth, observable business signals (such as hiring surges, office expansions, or executive appointments), relevant decision-maker responsibilities, and verified corporate contact channels grounded in supporting public evidence."
+      },
+      {
+        "q": "How does EBEXTA help with company intelligence?",
+        "a": "EBEXTA organizes publicly available business information across the web into an actionable B2B Business Intelligence and Business Network platform. Following the Discover → Understand → Verify → Engage framework, EBEXTA helps companies discover opportunities, understand business signals and context, verify companies and key decision-makers, and connect directly with businesses and leaders in the EBEXTA network."
+      },
+      {
+        "q": "Does company intelligence mean a company is ready to buy?",
+        "a": "No. Company intelligence and observable business signals indicate organizational change, momentum, or potential operational needs; they do not guarantee purchase intent or confirmed commercial budgets. Responsible sales teams treat company intelligence as an evidence-based hypothesis that warrants thoughtful qualification and bilateral dialogue."
+      }
+    ]
+  },
+  "section11": {
+    "id": "discover-companies-with-ebexta",
+    "badge": "Start Discovering Today",
+    "h2": "Discover Companies with EBEXTA",
+    "intro": "Move beyond static contact lists and unverified directory scraping. Harness the power of observable business signals, verified company intelligence, and direct network connections with EBEXTA.",
+    "ctaText": "Explore EBEXTA Platform",
+    "ctaUrl": "/signup",
+    "secondaryCtaText": "View Intelligence Guide",
+    "secondaryCtaUrl": "/b2b-business-intelligence"
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": "https://www.ebexta.com/company-intelligence#webpage",
+        "url": "https://www.ebexta.com/company-intelligence",
+        "name": "Company Intelligence & B2B Company Research | EBEXTA",
+        "description": "Understand companies with B2B company intelligence, company research, business signals and verified decision-maker context. EBEXTA helps businesses discover relevant opportunities and relationships.",
+        "isPartOf": {
+          "@type": "WebSite",
+          "@id": "https://www.ebexta.com/#website",
+          "url": "https://www.ebexta.com/",
+          "name": "EBEXTA"
+        },
+        "inLanguage": "en-US",
+        "breadcrumb": {
+          "@id": "https://www.ebexta.com/company-intelligence#breadcrumb"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://www.ebexta.com/company-intelligence#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.ebexta.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Company Intelligence",
+            "item": "https://www.ebexta.com/company-intelligence"
+          }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://www.ebexta.com/company-intelligence#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is company intelligence?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Company intelligence is the systematic gathering, analysis, and synthesis of observable business information, public corporate signals, leadership structures, and operational footprints to gain a comprehensive understanding of an enterprise. Unlike raw data points, company intelligence provides commercial context to help businesses identify potential partnerships, evaluate risks, and discover relevant B2B opportunities."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is B2B company intelligence?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "B2B company intelligence is business intelligence tailored specifically for business-to-business commerce. It analyzes organizational hierarchy, operational scale, technology infrastructure, corporate priorities, and decision-maker responsibilities to help B2B commercial teams identify which organizations may have active operational requirements and how best to engage them."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is the difference between company intelligence and company data?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Company data consists of static, isolated facts such as company names, addresses, generic phone numbers, and estimated headcount. Company intelligence interprets that data alongside observable business signals, industry context, recent corporate activity, and verified decision-maker roles to explain how an organization functions and why a commercial opportunity may be emerging."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Why is company intelligence important for B2B sales?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Company intelligence is crucial for B2B sales because modern enterprise buyers expect commercial partners to understand their operational context. By researching an account's strategic trajectory, leadership changes, and business signals, sales professionals can engage relevant decision-makers with tailored, high-value insights instead of sending unguided cold pitches."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What information is useful when researching a company?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Useful company research combines multiple information layers: the company's core business model and products, operating scale and employee growth, observable business signals (such as hiring surges, office expansions, or executive appointments), relevant decision-maker responsibilities, and verified corporate contact channels grounded in supporting public evidence."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does EBEXTA help with company intelligence?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "EBEXTA organizes publicly available business information across the web into an actionable B2B Business Intelligence and Business Network platform. Following the Discover → Understand → Verify → Engage framework, EBEXTA helps companies discover opportunities, understand business signals and context, verify companies and key decision-makers, and connect directly with businesses and leaders in the EBEXTA network."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Does company intelligence mean a company is ready to buy?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. Company intelligence and observable business signals indicate organizational change, momentum, or potential operational needs; they do not guarantee purchase intent or confirmed commercial budgets. Responsible sales teams treat company intelligence as an evidence-based hypothesis that warrants thoughtful qualification and bilateral dialogue."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

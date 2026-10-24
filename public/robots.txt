@@ -1,0 +1,29 @@
+# robots.txt for https://www.ebexta.com/
+User-agent: *
+Allow: /
+Allow: /about
+Allow: /careers
+Allow: /careers/*
+Allow: /terms
+Allow: /privacy
+Allow: /refund
+Allow: /dpdp
+Allow: /b2b-business-intelligence
+Allow: /business-signals
+Allow: /b2b-intent-intelligence
+
+# Disallow private application, auth, and admin endpoints from indexing
+Disallow: /dashboard
+Disallow: /dashboard/
+Disallow: /admin
+Disallow: /admin/
+Disallow: /onboarding
+Disallow: /onboarding/
+Disallow: /scan
+Disallow: /choose-plan
+Disallow: /welcome
+Disallow: /login
+Disallow: /signup
+Disallow: /api/
+
+Sitemap: https://www.ebexta.com/sitemap.xml

@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>EBEXTA System Architecture</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script type="module">
+        import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+        mermaid.initialize({ startOnLoad: true, theme: 'neutral' });
+    </script>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; color: #111827; }
+        .page-break { page-break-after: always; }
+        h1, h2, h3 { color: #111827; }
+        .card { background: white; border: 1px solid #e5e7eb; border-radius: 12px; padding: 24px; margin-bottom: 24px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05); }
+        .mermaid { display: flex; justify-content: center; margin: 32px 0; }
+    </style>
+</head>
+<body class="bg-gray-50 p-12">
+
+    <!-- Cover Page -->
+    <div class="h-screen flex flex-col justify-center items-center text-center page-break">
+        <img src="./public/ebexta-horizontal-light.png" class="h-16 mb-8 object-contain" alt="EBEXTA" />
+        <h1 class="text-6xl font-extrabold tracking-tight mb-6">EBEXTA / NEXA V.01</h1>
+        <h2 class="text-3xl text-gray-500 mb-12">System Architecture & Workflow Blueprint</h2>
+        <p class="text-lg text-gray-400 max-w-2xl">
+            A comprehensive overview of the AI-driven autonomous lead generation, deep intelligence, and intent matching platform.
+        </p>
+    </div>
+
+    <!-- 1. High-Level Architecture -->
+    <div class="page-break">
+        <h2 class="text-3xl font-bold mb-8 border-b pb-4">1. High-Level System Architecture</h2>
+        <div class="card">
+            <p class="text-gray-600 mb-6 leading-relaxed">
+                EBEXTA operates on a multi-tier architecture, heavily leveraging edge computing, serverless AI orchestration, and real-time database synchronization. The core loop consists of the Frontend Client (React/Vite), the Backend Data Layer (Supabase), and the Autonomous AI Engine (Gemini / Serper).
+            </p>
+            <div class="mermaid">
+graph TD
+    Client[Frontend Client<br/>React / Vite] -->|Auth & Data| Supabase[(Supabase<br/>PostgreSQL + Auth)]
+    Client -->|Triggers Scans| ScanEngine[Scan Engine<br/>Autonomous AI Orchestrator]
+    
+    ScanEngine -->|1. Web Search| Serper[Serper API]
+    ScanEngine -->|2. Web Scraping| Firecrawl[Firecrawl API / JSDOM]
+    ScanEngine -->|3. Reasoning| Gemini[Google Gemini AI]
+    
+    Supabase -->|Realtime Sync| Client
+    Supabase -->|Edge Functions| Functions[Supabase Edge Functions]
+    
+    Functions --> Email[Email Delivery Service]
+    Functions --> Notification[Push/Webhooks]
+            </div>
+        </div>
+    </div>
+
+    <!-- 2. The Autonomous Scan Engine (scanEngine.ts) -->
+    <div class="page-break">
+        <h2 class="text-3xl font-bold mb-8 border-b pb-4">2. The Autonomous Scan Workflow</h2>
+        <div class="card">
+            <p class="text-gray-600 mb-6 leading-relaxed">
+                The heart of EBEXTA is the Scan Engine. It doesn't just search; it actively crawls, reads, and reasons about companies to ensure they perfectly match the user's Buyer Profile. The process uses a multi-stage validation pipeline to guarantee zero hallucinations.
+            </p>
+            <div class="mermaid">
+sequenceDiagram
+    participant User
+    participant ScanEngine
+    participant SearchAPI
+    participant Scraper
+    participant Gemini
+    participant Supabase
+
+    User->>ScanEngine: Initiate Scan (Buyer Profile + Filters)
+    ScanEngine->>SearchAPI: Generate dynamic queries & fetch URLs
+    SearchAPI-->>ScanEngine: Return raw search results
+    
+    loop For each prospective company
+        ScanEngine->>Scraper: Crawl website (extract text)
+        Scraper-->>ScanEngine: Return raw page content
+        ScanEngine->>Gemini: Analyze against Buyer Profile
+        Gemini-->>ScanEngine: Intent Score, Trust Score, Match Reasons
+        
+        alt Meets Threshold
+            ScanEngine->>Supabase: Insert into `leads` table
+            ScanEngine->>Supabase: Upsert into `company_memory`
+        else Fails Threshold
+            ScanEngine->>ScanEngine: Discard (Log to telemetry)
+        end
+    end
+    
+    ScanEngine-->>User: Return verified leads to UI
+            </div>
+        </div>
+    </div>
+
+    <!-- 3. Database Schema & Data Flow -->
+    <div class="page-break">
+        <h2 class="text-3xl font-bold mb-8 border-b pb-4">3. Core Data Entities & Memory Architecture</h2>
+        <div class="card">
+            <p class="text-gray-600 mb-6 leading-relaxed">
+                Data in EBEXTA is separated into ephemeral/search-bound data (`leads`) and permanent, ever-growing corporate intelligence (`company_memory`).
+            </p>
+            <div class="mermaid">
+erDiagram
+    PROFILES ||--o{ SCANS : initiates
+    PROFILES ||--o{ LEADS : owns
+    PROFILES ||--o{ COMPANY_MEMORY : retains
+    
+    SCANS ||--o{ LEADS : produces
+    
+    LEADS }|--|| COMPANY_MEMORY : enriches
+    
+    COMPANY_MEMORY {
+        uuid id
+        string company_name
+        jsonb company_snapshot
+        jsonb contacts
+        jsonb deal_strategy
+        jsonb relationship_map
+    }
+    
+    LEADS {
+        uuid id
+        uuid scan_id
+        int intent_score
+        jsonb business_impact
+        jsonb score_breakdown
+    }
+            </div>
+        </div>
+    </div>
+
+    <!-- 4. Deep Intelligence Generation -->
+    <div>
+        <h2 class="text-3xl font-bold mb-8 border-b pb-4">4. Deep Intelligence & Dynamic Rendering</h2>
+        <div class="card">
+            <p class="text-gray-600 mb-6 leading-relaxed">
+                When a user interacts with a company, EBEXTA generates deep intelligence on the fly. Instead of burning tokens during the initial bulk scan, the <strong>Deal Strategy</strong>, <strong>Business Impact</strong>, and <strong>Relationship Maps</strong> are generated just-in-time when the Company Dossier is opened, and cached forever in Supabase.
+            </p>
+            <div class="grid grid-cols-2 gap-8 mt-8">
+                <div class="p-6 bg-blue-50 rounded-xl border border-blue-100">
+                    <h3 class="text-xl font-bold text-blue-800 mb-2">Just-In-Time Generation</h3>
+                    <p class="text-sm text-blue-900">Heavy AI tasks like drafting Neural Emails, calculating precise Deal Sizes, and plotting Stakeholder maps are deferred until explicit user request to optimize speed and cost.</p>
+                </div>
+                <div class="p-6 bg-green-50 rounded-xl border border-green-100">
+                    <h3 class="text-xl font-bold text-green-800 mb-2">Fallback Resilience</h3>
+                    <p class="text-sm text-green-900">If a lead fails to insert into the primary table due to race conditions or payload limits, the UI intelligently falls back to reconstructing the lead from the `company_memory` snapshot, ensuring zero data loss for the user.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>

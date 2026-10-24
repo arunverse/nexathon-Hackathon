@@ -1,0 +1,303 @@
+{
+  "JOB_ROLES": [
+    {
+      "id": "ai-ml-engineer",
+      "slug": "ai-ml-engineer",
+      "title": "AI/ML Engineer",
+      "department": "Engineering",
+      "employmentType": "Full-time & Internship",
+      "openForInterns": true,
+      "location": "Bengaluru (Hybrid)",
+      "experience": "Internship, Entry-level, or Experienced",
+      "summary": "Build intelligent capabilities, evaluation pipelines, and machine learning models for EBEXTA’s verified bilateral intelligence platform. (Available for Full-time and Internships)",
+      "overview": "As an AI/ML Engineer at EBEXTA, you will work on the core intelligence layer that powers our bilateral matching platform. Open for both full-time engineers and high-curiosity student or graduate interns, you will build and optimize machine learning models, retrieval systems, and LLM-driven inference pipelines that process structured and unstructured business signals to produce verified buyer-seller counterpart recommendations with high confidence.",
+      "responsibilities": [
+        "Develop and integrate machine-learning and AI capabilities into EBEXTA products",
+        "Work with structured and unstructured business data across diverse industry categories",
+        "Build systems for company classification, intent ranking, similarity recommendation, and predictive scoring",
+        "Improve model accuracy, reliability, latency, and inference efficiency",
+        "Work with modern APIs, LLMs, embedding architectures, and vector search systems",
+        "Develop automated evaluation benchmarks and validation pipelines for AI outputs",
+        "Collaborate closely with product and engineering teams to ship features into production",
+        "Convert real-world business requirements into practical, high-performance AI solutions"
+      ],
+      "requirements": [
+        "Strong programming proficiency in Python and familiarity with modern development workflows",
+        "Solid foundation in Machine Learning and Deep Learning fundamentals",
+        "Hands-on understanding of LLMs, Prompt Engineering, Retrieval-Augmented Generation (RAG), and embeddings",
+        "Experience working with RESTful APIs, data serialization, and integration",
+        "Proficiency in SQL and relational/non-relational data processing",
+        "Familiarity with Git, version control, and collaborative code review",
+        "Strong problem-solving ability and attention to model reliability and edge cases"
+      ],
+      "niceToHave": [
+        "Experience with TypeScript, Node.js, or full-stack Python frameworks (FastAPI)",
+        "Familiarity with vector databases (pgvector, Pinecone, or similar)",
+        "Experience evaluating LLM hallucination and structuring schema-validated outputs",
+        "Prior contributions to open-source AI projects or technical research"
+      ],
+      "learnings": [
+        "Practical production deployment of generative AI and embedding search at scale",
+        "Architecting verifiable AI systems where accuracy is strictly auditable",
+        "Cross-functional collaboration with sales, product, and data engineers",
+        "Building zero-to-one intelligence features directly impacting active users",
+        "Dedicated mentorship for interns with potential for Pre-Placement Offer (PPO)"
+      ],
+      "workArrangement": "Bengaluru, India (Hybrid: office collaboration with flexible remote days)",
+      "skills": ["Python", "Machine Learning", "LLMs & RAG", "SQL", "APIs", "Data Modeling", "Git"],
+      "status": "active"
+    },
+    {
+      "id": "sales-representative",
+      "slug": "sales-representative",
+      "title": "Sales Representative",
+      "department": "Sales",
+      "employmentType": "Full-time & Internship",
+      "openForInterns": true,
+      "location": "Bengaluru (Hybrid)",
+      "experience": "Internship, Entry-level, or Experienced",
+      "summary": "Drive high-impact B2B technology sales conversations, qualify inbound and outbound demand, and conduct live product demonstrations for founders and revenue leaders. (Available for Full-time and Internships)",
+      "overview": "EBEXTA is seeking a high-energy Sales Representative (available as Full-time or Internship) to champion our verified bilateral intelligence platform to founders, business owners, and sales teams across India. This is consultative B2B partnership: you will engage in strategic consultative discussions, map business growth challenges, and show revenue decision-makers how verified counterpart matching transforms their sales pipeline.",
+      "responsibilities": [
+        "Identify potential EBEXTA customers across B2B technology, agency, services, and industrial sectors",
+        "Understand prospects’ core business, revenue-generation bottlenecks, and customer acquisition challenges",
+        "Demonstrate EBEXTA’s bilateral intelligence value clearly through tailored presentations and product walkthroughs",
+        "Conduct outbound prospecting and qualify inbound sales inquiries",
+        "Identify key decision-makers (Founders, CEOs, Heads of Sales/Growth) and initiate contact",
+        "Schedule and deliver consultative product demonstrations",
+        "Maintain diligent prospect follow-ups and navigate opportunities through the sales cycle",
+        "Record sales activity, pipeline progress, and customer notes accurately in the CRM",
+        "Gather frontline customer feedback and communicate market demands to the product engineering team",
+        "Achieve and exceed monthly and quarterly qualified opportunity and revenue targets"
+      ],
+      "requirements": [
+        "Excellent verbal and written communication skills in English (additional Indian languages a plus)",
+        "Strong passion for B2B technology sales, SaaS, and business intelligence",
+        "High comfort level engaging in consultative conversations with founders and senior leaders",
+        "Basic understanding of sales pipelines, lead qualification, and objection handling",
+        "Familiarity with CRM tools and structured sales follow-up processes",
+        "Ability to understand technology products and articulate business ROI concisely",
+        "Resilience, coachability, and self-driven execution discipline"
+      ],
+      "niceToHave": [
+        "Prior experience in B2B inside sales, tech sales, or business development",
+        "Familiarity with sales engagement tools (Apollo, LinkedIn Sales Navigator, HubSpot)",
+        "Understanding of B2B lead generation, prospecting, and cold outreach strategy"
+      ],
+      "learnings": [
+        "Mastering high-velocity consultative sales conversations with tech founders and executives",
+        "Deep insight into how modern B2B companies buy software and intelligence tools",
+        "Building predictable sales pipelines and managing deal negotiations",
+        "Direct mentorship from leadership on commercial strategy and enterprise sales",
+        "Structured internship pathway with performance incentives and PPO opportunities"
+      ],
+      "workArrangement": "Bengaluru, India (Hybrid)",
+      "skills": ["B2B Sales", "Consultative Selling", "Product Demos", "Pipeline Management", "CRM", "Outreach"],
+      "status": "active"
+    },
+    {
+      "id": "seo-specialist",
+      "slug": "seo-specialist",
+      "title": "SEO Specialist",
+      "department": "Marketing",
+      "employmentType": "Full-time & Internship",
+      "openForInterns": true,
+      "location": "Bengaluru (Hybrid)",
+      "experience": "Internship, Entry-level, or Experienced",
+      "summary": "Spearhead organic growth and high-intent search acquisition for EBEXTA’s B2B platform through technical SEO, content frameworks, and intent research. (Available for Full-time and Internships)",
+      "overview": "As an SEO Specialist at EBEXTA (available as Full-time or Internship), you will own organic search as a scalable, compounding customer acquisition channel. You will research how B2B buyers search for suppliers, software solutions, and verified market intelligence, and optimize our platform’s architecture, content hubs, and landing pages to capture top-of-funnel and bottom-of-funnel commercial intent.",
+      "responsibilities": [
+        "Develop and execute EBEXTA’s comprehensive organic search and technical SEO strategy",
+        "Conduct deep keyword, entity, and search-intent research for B2B procurement and partner discovery",
+        "Identify high-value, intent-driven commercial keywords and map topic cluster opportunities",
+        "Audit and optimize website pages, metadata, internal linking, and Core Web Vitals performance",
+        "Develop structured content briefs and programmatic SEO blueprints for product and landing pages",
+        "Implement technical SEO best practices (schema markup, crawl budget, sitemaps, canonical tags, mobile indexability)",
+        "Track search rankings, organic traffic, indexation status, and conversion attribution using Search Console and Analytics",
+        "Perform regular competitor SERP analysis to identify ranking gaps and content expansion areas",
+        "Collaborate with engineering to ensure new product features are crawlable and SEO-friendly",
+        "Focus on conversion-optimized traffic that turns visitors into active EBEXTA users"
+      ],
+      "requirements": [
+        "Solid understanding of Technical SEO, On-Page SEO, and modern search engine ranking factors",
+        "Hands-on experience with Google Search Console, Google Analytics 4, and SEO intelligence tools (Ahrefs, Semrush, or Screaming Frog)",
+        "Proven ability to research search intent and distinguish informational from commercial/transactional queries",
+        "Strong grasp of HTML semantics, URL structures, schema markup, and site architecture",
+        "Experience creating data-backed content briefs that guide writers and designers",
+        "Analytical mindset with comfort interpreting traffic trends, CTRs, and conversion drop-offs"
+      ],
+      "niceToHave": [
+        "Experience with Programmatic SEO or database-driven content generation",
+        "Basic knowledge of JavaScript rendering and Single Page Application (SPA) SEO",
+        "Background in B2B SaaS or marketplace organic growth"
+      ],
+      "learnings": [
+        "Scaling organic search from ground up for an AI-native B2B intelligence platform",
+        "Hands-on execution of programmatic content architectures and structured entity modeling",
+        "Direct cross-functional exposure to product designers, engineers, and growth marketers",
+        "Comprehensive internship mentorship covering advanced technical and programmatic SEO"
+      ],
+      "workArrangement": "Bengaluru, India (Hybrid: Remote-friendly)",
+      "skills": ["Technical SEO", "Search Console", "Keyword Research", "On-Page Optimization", "Schema Markup", "Analytics"],
+      "status": "active"
+    },
+    {
+      "id": "social-media-marketing",
+      "slug": "social-media-marketing",
+      "title": "Social Media Marketing Specialist",
+      "department": "Marketing",
+      "employmentType": "Full-time & Internship",
+      "openForInterns": true,
+      "location": "Bengaluru (Hybrid)",
+      "experience": "Internship, Entry-level, or Experienced",
+      "summary": "Shape EBEXTA’s public brand, executive thought leadership, and product storytelling across LinkedIn, visual platforms, and tech communities. (Available for Full-time and Internships)",
+      "overview": "We are looking for a creative, strategic Social Media Marketing Specialist (available as Full-time or Internship) who understands how to build genuine authority in B2B tech. You will unpack EBEXTA’s product innovations, customer case studies, and industry data into compelling LinkedIn posts, visual carousels, video concepts, and founder thought-leadership content that engages decision-makers.",
+      "responsibilities": [
+        "Develop and execute EBEXTA’s organic social media and narrative distribution strategy",
+        "Craft high-signal, engaging written content for LinkedIn and relevant professional channels",
+        "Develop educational breakdowns and product-focused teasers highlighting bilateral intelligence capabilities",
+        "Build authentic founder and leadership thought-leadership narratives around AI, data verification, and sales tech",
+        "Research industry trends, market reports, and news to identify timely conversation opportunities",
+        "Concept and script short-form videos, visual carousels, infographics, and interactive content formats",
+        "Engage actively with industry communities, founders, and prospective customers in comment sections",
+        "Track engagement rates, follower growth, audience demographics, and referral traffic to the website",
+        "Experiment continuously with new hooks, formats, and storytelling frameworks",
+        "Collaborate with engineering, sales, and product teams to translate technical milestones into accessible stories"
+      ],
+      "requirements": [
+        "Exceptional written English with a natural, punchy, conversational B2B writing voice",
+        "Deep understanding of LinkedIn’s algorithm, format dynamics, and professional audience behavior",
+        "Proven ability to explain technical or business concepts clearly without corporate jargon",
+        "Experience ideating visual concepts (carousels, infographics, motion graphics briefs)",
+        "Basic visual design or video-editing familiarity (Canva, Figma, CapCut, or Premiere is a bonus)",
+        "Curiosity about AI, startups, SaaS, and how modern companies operate",
+        "Consistency, attention to detail, and a genuine passion for audience building"
+      ],
+      "niceToHave": [
+        "Experience growing a personal or brand LinkedIn presence with demonstrable engagement",
+        "Familiarity with community building on X (Twitter), Reddit, or Discord",
+        "Understanding of developer and founder culture and startup ecosystems"
+      ],
+      "learnings": [
+        "Brand building and organic distribution for an emerging technology company",
+        "Executive thought leadership and strategic narrative positioning",
+        "Direct collaboration with founders and early team members",
+        "Real-world portfolio building for interns across high-visibility tech channels"
+      ],
+      "workArrangement": "Bengaluru, India (Hybrid)",
+      "skills": ["LinkedIn Strategy", "Copywriting", "Content Strategy", "Visual Storytelling", "Short-form Video", "Social Analytics"],
+      "status": "active"
+    },
+    {
+      "id": "business-development-associate",
+      "slug": "business-development-associate",
+      "title": "Business Development Associate (BDA)",
+      "department": "Business Development",
+      "employmentType": "Full-time & Internship",
+      "openForInterns": true,
+      "location": "Bengaluru (Hybrid)",
+      "experience": "Internship, Entry-level, or Experienced",
+      "summary": "Forge strategic partnerships, research target industry verticals, and develop new go-to-market channels for EBEXTA across India and global markets. (Available for Full-time and Internships)",
+      "overview": "As a Business Development Associate (BDA) at EBEXTA (available as Full-time or Internship), you will be on the frontlines of our market expansion. You will identify high-potential industry clusters, research target accounts, originate strategic partnership opportunities, and build relationships that accelerate platform adoption among trade associations, incubators, agency networks, and enterprise providers.",
+      "responsibilities": [
+        "Identify, research, and map high-growth market segments, industry clusters, and geographic opportunities",
+        "Identify and evaluate strategic partnership opportunities with ecosystem enablers, agencies, and trade networks",
+        "Generate, qualify, and nurture business development leads through personalized multichannel outreach",
+        "Conduct exploratory outreach to business owners, managing directors, and commercial heads",
+        "Support commercial discussions, partnership proposals, and alliance agreements",
+        "Build, nurture, and maintain professional relationships with prospective partners and enterprise accounts",
+        "Coordinate closely with sales, marketing, and product teams to align go-to-market initiatives",
+        "Conduct regular competitor analysis and monitor market trends to uncover unmet business needs",
+        "Participate in networking events, industry conferences, and online trade summits to represent EBEXTA",
+        "Track business development metrics, outreach velocity, and partner conversion outcomes"
+      ],
+      "requirements": [
+        "Strong interpersonal, communication, and presentation skills with an articulate business acumen",
+        "High aptitude for commercial market research, company analysis, and account mapping",
+        "Demonstrated interest in partnerships, deal-making, technology adoption, and commercial expansion",
+        "Self-driven entrepreneurial attitude with comfort navigating ambiguous zero-to-one challenges",
+        "Strong negotiation, persuasion, and relationship-building abilities",
+        "Proficiency in preparing clean presentation decks and professional email correspondence",
+        "Discipline in tracking outreach and pipeline in structured CRM or project boards"
+      ],
+      "niceToHave": [
+        "Prior experience in business development, corporate partnerships, or agency account management",
+        "Existing network within Indian startup ecosystems, trade chambers, or B2B tech communities",
+        "Familiarity with SaaS pricing models and commercial contract structures"
+      ],
+      "learnings": [
+        "Structuring and executing B2B partnerships and commercial alliance agreements",
+        "Strategic market mapping and enterprise territory expansion",
+        "Working side-by-side with founding leadership on core go-to-market strategy",
+        "Internship training in consultative B2B deal formation and executive communications"
+      ],
+      "workArrangement": "Bengaluru, India (Hybrid)",
+      "skills": ["Business Development", "Market Research", "Partnership Outreach", "Negotiation", "Commercial Strategy", "Presentation"],
+      "status": "active"
+    }
+  ],
+  "CULTURE_PILLARS": [
+    {
+      "title": "OWNERSHIP",
+      "tagline": "Take responsibility for outcomes end-to-end.",
+      "description": "We don’t believe in siloed task handoffs. When you take on a project, whether an AI pipeline, an SEO strategy, or an enterprise deal, you own the outcome from inception to customer impact.",
+      "icon": "verified_user"
+    },
+    {
+      "title": "LEARNING",
+      "tagline": "Learn by solving real, unstructured problems.",
+      "description": "The fastest learning happens when you are tackling real market challenges with real users. We provide autonomy, fast feedback, and high expectations so you grow exponentially.",
+      "icon": "psychology"
+    },
+    {
+      "title": "EXECUTION",
+      "tagline": "Move from ideas to measurable results.",
+      "description": "Speed and rigor are not opposites. We value concise plans, rapid prototyping, clean code, and tangible metrics over bureaucracy and endless slide decks.",
+      "icon": "rocket_launch"
+    },
+    {
+      "title": "COLLABORATION",
+      "tagline": "Tight loops between technology and business.",
+      "description": "Engineers sit with sales; marketers inspect product analytics; business developers review match accuracy. We build better because our teams speak the same language.",
+      "icon": "diversity_3"
+    },
+    {
+      "title": "CUSTOMER REALITY",
+      "tagline": "Grounded in verified buyer & seller truth.",
+      "description": "Every feature we build and every message we send is verified against real business needs. We solve genuine discovery friction for founders and revenue leaders.",
+      "icon": "center_focus_strong"
+    }
+  ],
+  "WHY_EBEXTA_POINTS": [
+    {
+      "icon": "precision_manufacturing",
+      "title": "Real-World Product Experience",
+      "desc": "Work directly on live products used daily by founders and revenue teams, not throwaway internal tools or hypothetical toy projects."
+    },
+    {
+      "icon": "shield_person",
+      "title": "High Ownership & Responsibility",
+      "desc": "Take direct stewardship over features, models, pipelines, and partnerships with true autonomy and accountability."
+    },
+    {
+      "icon": "hub",
+      "title": "Cross-Disciplinary Exposure",
+      "desc": "Work fluidly across machine learning, product design, marketing analytics, and enterprise sales in an integrated team."
+    },
+    {
+      "icon": "query_stats",
+      "title": "Modern Intelligence & AI Stack",
+      "desc": "Hands-on exposure to practical LLM systems, embedding indexes, and real-time verifiable intelligence workflows."
+    },
+    {
+      "icon": "trending_up",
+      "title": "Performance-Driven Meritocracy",
+      "desc": "Recognition and advancement driven by measurable impact, creative problem-solving, and execution quality."
+    },
+    {
+      "icon": "lightbulb",
+      "title": "Culture of Curiosity & Craft",
+      "desc": "Your ideas are heard and tested. We maintain an environment that values craftsmanship, clear thinking, and continuous iteration."
+    }
+  ]
+}

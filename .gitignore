@@ -1,0 +1,43 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+.vite/
+
+# Large archives / snapshots — exceed GitHub's 100MB limit, don't commit
+*.zip
+.snapshots/
+Archive.zip
+NEXA_V01.zip
+
+# Secrets — never commit any env file variant
+.env
+.env.local
+.env.development
+.env.production
+.env.*.local
+.env.*
+!.env.example
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Editor/FUSE leftovers
+.fuse_hidden*

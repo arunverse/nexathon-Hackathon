@@ -1,0 +1,309 @@
+{
+  "h1": "B2B Business Intelligence for Discovering Business Opportunities",
+  "subtitle": "How modern commercial enterprises move beyond static contact databases to evaluate operational signals, business intent, and verified decision-makers before engaging.",
+  "badge": "EBEXTA Framework · Discover → Understand → Verify → Engage",
+  "positioning": "EBEXTA is a B2B Business Intelligence and Business Network platform that helps companies discover opportunities, understand business signals and intent, verify companies and decision-makers, engage with prospects, and directly connect with businesses, sector leaders, and professionals who are part of the EBEXTA network.",
+  "section1": {
+    "id": "what-is-b2b-bi",
+    "badge": "Core Definition",
+    "h2": "What Is B2B Business Intelligence?",
+    "paragraphs": [
+      "B2B business intelligence is the continuous discovery, synthesis, and interpretation of commercial context, corporate requirements, and operational indicators across business ecosystems. Unlike consumer intelligence, which relies on demographic generalities, business-to-business intelligence evaluates how enterprises operate, scale, allocate capital, and select commercial partners.",
+      "At its core, B2B business intelligence addresses the fundamental gap in commercial growth: knowing not just that a company exists, but understanding why they have a present need, what problem they are attempting to solve, and who among their leadership possesses the authority to evaluate solutions."
+    ],
+    "pillars": [
+      {
+        "num": "Pillar 01",
+        "title": "Precision Context",
+        "desc": "Understanding the exact operating context and sector needs of a company before initiating commercial dialogue."
+      },
+      {
+        "num": "Pillar 02",
+        "title": "Live Business Signals",
+        "desc": "Tracking real-world operational changes, expansion efforts, hiring shifts, and procurement indicators in real time."
+      },
+      {
+        "num": "Pillar 03",
+        "title": "Verified Decision-Makers",
+        "desc": "Confirming executive mandates and authentic decision-makers through cross-referenced public records and verified networks."
+      }
+    ]
+  },
+  "section2": {
+    "id": "why-traditional-data-fails",
+    "badge": "The Evolution of Data",
+    "h2": "Why Traditional B2B Data Isn't Enough",
+    "intro": "For decades, B2B sales and marketing teams relied on static contact directories and scraped lead databases. These repositories typically deliver lists of names, job titles, and email addresses organized by broad industry tags. However, in today's sophisticated business landscape, static contact data suffers from critical structural flaws:",
+    "traditionalFlaws": [
+      {
+        "title": "Absence of Timing & Context",
+        "desc": "An email address reveals nothing about whether a company has budget, active projects, or urgent priorities."
+      },
+      {
+        "title": "Rapid Data Decay",
+        "desc": "Corporate roles change constantly, leading to 30–50% bounce rates and wasted sales development effort."
+      },
+      {
+        "title": "Generic Cold Mass Outreach",
+        "desc": "Spray-and-pray emails that end up in spam folders and erode corporate reputation."
+      }
+    ],
+    "ebextaAdvantages": [
+      {
+        "title": "Signal-Driven Timing",
+        "desc": "Engagements triggered by observable expansion, procurement disclosures, and executive mandates."
+      },
+      {
+        "title": "Verified Decision-Makers",
+        "desc": "Cross-referenced public evidence ensures you engage legitimate stakeholders with active purchasing mandate."
+      },
+      {
+        "title": "Bilateral Network Engagement",
+        "desc": "Direct handshakes with sector leaders and professionals who are active members of the EBEXTA network."
+      }
+    ]
+  },
+  "section3": {
+    "id": "business-signals",
+    "badge": "Market Observation",
+    "h2": "The Signals Behind Business Opportunities",
+    "intro": "Every commercial transaction is triggered by real-world events. Business signals are observable indicators extracted from public company activity, regulatory filings, corporate announcements, procurement tenders, and industry movements that reveal commercial momentum:",
+    "signals": [
+      {
+        "tag": "SIGNAL · EXPANSION",
+        "title": "Expansion & Growth Indicators",
+        "desc": "New facility openings, regional market entries, capital investments, and capacity expansions signaling growing vendor requirements."
+      },
+      {
+        "tag": "SIGNAL · LEADERSHIP",
+        "title": "Leadership & Executive Transitions",
+        "desc": "New executive appointments (CEOs, CTOs, heads of procurement) frequently bring new operational priorities and partner evaluations."
+      },
+      {
+        "tag": "SIGNAL · TECH ADOPTION",
+        "title": "Technology & Process Modernization",
+        "desc": "Digital transformation disclosures, infrastructure shifts, and tool adoptions highlighting active technical and service needs."
+      },
+      {
+        "tag": "SIGNAL · TENDERS",
+        "title": "Procurement & Public Tenders",
+        "desc": "Published requests for proposals, supplier requirements, and statutory disclosures demonstrating immediate purchasing readiness."
+      }
+    ]
+  },
+  "section4": {
+    "id": "intent-and-intelligence",
+    "badge": "Commercial Intent",
+    "h2": "Business Intent and Company Intelligence",
+    "paragraphs": [
+      "When combined with deep company research, business intent transforms how enterprises prioritize their pipeline. Intent indicators reveal an organization’s active focus on specific categories, problems, or technological solutions.",
+      "Rather than scattering business development resources evenly across an entire addressable market, company intelligence allows revenue teams to focus on the subset of counterparties currently demonstrating commercial momentum. By understanding a company's strategic focus, recent achievements, and immediate requirements beforehand, business leaders can craft proposals that resonate immediately with executive decision-makers."
+    ]
+  },
+  "section5": {
+    "id": "discovery-to-engagement",
+    "badge": "The Commercial Lifecycle",
+    "h2": "From Discovery to Engagement",
+    "intro": "Successful B2B partnerships do not happen by chance; they follow a structured progression from market discovery to meaningful commercial dialogue. EBEXTA coordinates this transition into four core stages:",
+    "stages": [
+      {
+        "stage": "STAGE 01",
+        "num": "01 / 04",
+        "title": "Discover: Relevant Opportunities",
+        "desc": "Identify companies demonstrating active commercial momentum, industry growth, and relevant strategic initiatives. Rather than scanning passive lists, business development teams surface high-potential counterparties based on genuine market dynamics."
+      },
+      {
+        "stage": "STAGE 02",
+        "num": "02 / 04",
+        "title": "Understand: Signals, Intent & Context",
+        "desc": "Analyze the context behind those signals—ongoing technology initiatives, organizational priorities, and specific commercial requirements. Understanding the why behind an account allows teams to formulate relevant solutions."
+      },
+      {
+        "stage": "STAGE 03",
+        "num": "03 / 04",
+        "title": "Verify: Companies & Decision-Makers",
+        "desc": "Confirm the credibility of the enterprise, the validity of the business opportunity, and identify accountable leaders responsible for key initiatives. Multi-layer verification eliminates wasted outreach and outdated points of contact."
+      },
+      {
+        "stage": "STAGE 04",
+        "num": "04 / 04",
+        "title": "Engage: Strategic Bilateral Dialogue",
+        "desc": "Initiate contextual, bilateral dialogue with executive stakeholders through a trusted network. By engaging with verified facts and shared business context, discussions bypass cold barriers and advance directly to commercial evaluation."
+      }
+    ]
+  },
+  "section6": {
+    "id": "ebexta-approach",
+    "badge": "Platform Integration",
+    "h2": "How EBEXTA Approaches B2B Business Intelligence",
+    "paragraphs": [
+      "Unlike isolated intelligence tools that stop at delivering data points, EBEXTA bridges the critical gap between intelligence and execution by pairing deep company research with the interactive EBEXTA B2B Network.",
+      "On EBEXTA, enterprises do not merely consume analytical dossiers; they can directly identify, connect, and collaborate with verified founders, CEOs, procurement heads, and sector leaders who are active platform members. This bilateral model ensures that intelligence translates smoothly into genuine, high-trust commercial relationships."
+    ],
+    "aboutLink": "/about",
+    "aboutLinkText": "Learn more about EBEXTA's vision and architecture on the About page"
+  },
+  "section7": {
+    "id": "who-is-it-for",
+    "badge": "Target Stakeholders",
+    "h2": "Who Is B2B Business Intelligence For?",
+    "intro": "Actionable intelligence creates leverage across every department engaged in commercial growth:",
+    "audiences": [
+      {
+        "title": "B2B Sales & Revenue Teams",
+        "desc": "Prioritize prospects based on active signals and intent rather than arbitrary contact lists, maximizing deal velocity and executive response rates."
+      },
+      {
+        "title": "Business Development Teams",
+        "desc": "Identify emerging expansion programs, public tenders, and supply-chain requirements early, establishing advantageous counterparty positions."
+      },
+      {
+        "title": "Founders & Executive Leadership",
+        "desc": "Map competitor ecosystems, evaluate strategic partners, and connect directly with fellow founders and sector leaders across the EBEXTA network."
+      },
+      {
+        "title": "Marketing & Partnerships Teams",
+        "desc": "Ground account-based marketing (ABM) campaigns in verifiable intent data and identify synergistic alliances with complementary enterprises."
+      }
+    ]
+  },
+  "section8": {
+    "id": "frequently-asked-questions",
+    "badge": "Search Intent Answers",
+    "h2": "Frequently Asked Questions",
+    "intro": "Concise, factual answers regarding B2B business intelligence, business signals, and the EBEXTA platform.",
+    "faqs": [
+      {
+        "q": "What is B2B business intelligence?",
+        "a": "B2B business intelligence is the systematic gathering, analysis, and synthesis of company data, market context, operational signals, and commercial intent to help organizations identify high-value opportunities and make informed commercial decisions."
+      },
+      {
+        "q": "How is B2B business intelligence different from a company database?",
+        "a": "Traditional company databases provide static lists of names, emails, and phone numbers without timing or business context. B2B business intelligence provides actionable signals, corporate requirements, commercial intent, and verifiable counterparty context so engagements are timely and grounded in real commercial needs."
+      },
+      {
+        "q": "What are business signals in B2B?",
+        "a": "Business signals are observable operational events—such as procurement notices, leadership transitions, expansion announcements, technology adoptions, and market shifts—that indicate active organizational requirements and commercial readiness."
+      },
+      {
+        "q": "What is B2B intent intelligence?",
+        "a": "B2B intent intelligence identifies indicators that a company is actively researching, evaluating, or preparing to procure specific products, services, or partnerships, allowing outreach to be timed when relevance is highest."
+      },
+      {
+        "q": "How can companies discover B2B opportunities?",
+        "a": "Companies discover B2B opportunities by monitoring market activity, analyzing business signals, identifying commercial intent indicators, cross-referencing public evidence, and participating in bilateral business networks."
+      },
+      {
+        "q": "What is company intelligence?",
+        "a": "Company intelligence is a deep, multidimensional profile of an enterprise encompassing its business model, leadership, active requirements, industry footprint, public evidence, and strategic initiatives."
+      },
+      {
+        "q": "How does EBEXTA help businesses discover and engage with opportunities?",
+        "a": "EBEXTA is a B2B Business Intelligence and Business Network platform that helps companies discover opportunities, understand business signals and intent, verify companies and decision-makers, engage with prospects, and directly connect with businesses, sector leaders, and professionals who are part of the EBEXTA network."
+      }
+    ]
+  },
+  "cta": {
+    "badge": "Transform Your Commercial Discovery",
+    "h2": "Discover Verified B2B Opportunities on EBEXTA",
+    "desc": "Move beyond static contact lists. Harness business signals, evaluate commercial intent, and connect directly with verified decision-makers across the EBEXTA network.",
+    "primary": { "text": "Get Started with EBEXTA", "href": "/signup" },
+    "secondary": { "text": "Sign In to Platform", "href": "/login" }
+  },
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": "https://www.ebexta.com/b2b-business-intelligence#webpage",
+        "url": "https://www.ebexta.com/b2b-business-intelligence",
+        "name": "B2B Business Intelligence for Business Opportunities | EBEXTA",
+        "description": "Discover how B2B business intelligence helps companies understand business signals, intent, companies and opportunities, then move from discovery to engagement with EBEXTA.",
+        "breadcrumb": {
+          "@id": "https://www.ebexta.com/b2b-business-intelligence#breadcrumb"
+        },
+        "inLanguage": "en-US"
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://www.ebexta.com/b2b-business-intelligence#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.ebexta.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "B2B Business Intelligence",
+            "item": "https://www.ebexta.com/b2b-business-intelligence"
+          }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://www.ebexta.com/b2b-business-intelligence#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is B2B business intelligence?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "B2B business intelligence is the systematic gathering, analysis, and synthesis of company data, market context, operational signals, and commercial intent to help organizations identify high-value opportunities and make informed commercial decisions."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How is B2B business intelligence different from a company database?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Traditional company databases provide static lists of names, emails, and phone numbers without timing or business context. B2B business intelligence provides actionable signals, corporate requirements, commercial intent, and verifiable counterparty context."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What are business signals in B2B?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Business signals are observable operational events—such as procurement notices, leadership transitions, expansion announcements, technology adoptions, and market shifts—that indicate active organizational requirements and commercial readiness."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is B2B intent intelligence?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "B2B intent intelligence identifies indicators that a company is actively researching, evaluating, or preparing to procure specific products, services, or partnerships, allowing outreach to be timed when relevance is highest."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How can companies discover B2B opportunities?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Companies discover B2B opportunities by monitoring market activity, analyzing business signals, identifying commercial intent indicators, cross-referencing public evidence, and participating in bilateral business networks."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is company intelligence?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Company intelligence is a deep, multidimensional profile of an enterprise encompassing its business model, leadership, active requirements, industry footprint, public evidence, and strategic initiatives."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How does EBEXTA help businesses discover and engage with opportunities?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "EBEXTA is a B2B Business Intelligence and Business Network platform that helps companies discover opportunities, understand business signals and intent, verify companies and decision-makers, engage with prospects, and directly connect with businesses, sector leaders, and professionals who are part of the EBEXTA network."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
